@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction">
+        <item>ДА</item>
+        <item>очень вероятно</item>
+        <item>безусловно</item>
+        <item>без сомнений</item>
+        <item>должно быть так</item>
+        <item>абсолютно точно</item>
+        <item>мне кажется да</item>
+        <item>духи говорят да</item>
+        <item>похоже, что да</item>
+        <item>НЕТ</item>
+        <item>зведы говорят, нет</item>
+        <item>ответ нет</item>
+        <item>не надейтесь</item>
+        <item>спросите снова</item>
+        <item>не могу сказать</item>
+        <item>ответ не ясен</item>
+        <item>вряд ли</item>
+        <item>спросите позже</item>
+        <item>мало шансов</item>
+        <item>не похоже</item>
+    </string-array>
+</resources>

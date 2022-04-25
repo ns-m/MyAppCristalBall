@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyAppCristalBall</string>
+    <string name="app_prediction">Prediction</string>
+    <string name="app_start_game">Press here to start Prediction!</string>
 </resources>
